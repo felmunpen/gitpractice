@@ -1,1 +1,1 @@
-print("How is the weather today in your city?")
+print("Whe should add some answers here.")
