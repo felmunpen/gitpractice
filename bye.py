@@ -1,1 +1,1 @@
-print("Bye! See you later, alligator.")
+print("Bye! See you CROCODILE.")
